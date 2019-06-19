@@ -1,0 +1,29 @@
+﻿<?php
+
+	//declaration for database connection
+	$include_connect ="../connection.php";
+	
+	//declaration for function_exists
+	$function = filter_input(INPUT_POST,"function");
+	
+	//object declaration
+	
+	
+	
+	//switch function
+	switch($function){
+		
+		
+		DEFAULT:
+			echo "No Function";
+		break;
+	}
+	
+	
+	
+	//ALL FUNCTIONS
+	
+	
+
+
+?>
